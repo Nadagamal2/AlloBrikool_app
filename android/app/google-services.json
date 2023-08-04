@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199776273914",
+    "project_id": "allo-pricool",
+    "storage_bucket": "allo-pricool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199776273914:android:13827c6b6286c3fcea1043",
+        "android_client_info": {
+          "package_name": "on.sam.alloPrikool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199776273914-0rnt1fbk0jostd6k9ab011m4gen6pril.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbQnLjTx8CygOwWz-J2-Hra-XUsjKF3HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199776273914-0rnt1fbk0jostd6k9ab011m4gen6pril.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

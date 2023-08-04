@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="277" height="164" viewBox="0 0 277 164">
+  <g id="Group_88666" data-name="Group 88666" transform="translate(57 43)" opacity="0.1">
+    <g id="Rectangle_791" data-name="Rectangle 791" transform="translate(33 24)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="37" height="37" rx="18.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="36" height="36" rx="18" fill="none"/>
+    </g>
+    <rect id="Rectangle_796" data-name="Rectangle 796" width="37" height="36" rx="18" transform="translate(33 -19)" fill="#fff"/>
+    <rect id="Rectangle_794" data-name="Rectangle 794" width="53" height="53" rx="26.5" transform="translate(17 68)" fill="#fff"/>
+    <g id="Rectangle_798" data-name="Rectangle 798" transform="translate(-30 68)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="45" height="45" rx="22.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="44" height="44" rx="22" fill="none"/>
+    </g>
+    <rect id="Rectangle_795" data-name="Rectangle 795" width="88" height="88" rx="44" transform="translate(-57 -27)" fill="#fff"/>
+    <rect id="Rectangle_792" data-name="Rectangle 792" width="36" height="36" rx="18" transform="translate(73 55)" fill="#fff"/>
+    <g id="Rectangle_801" data-name="Rectangle 801" transform="translate(113 55)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="29" height="28" rx="14" stroke="none"/>
+      <rect x="0.5" y="0.5" width="28" height="27" rx="13.5" fill="none"/>
+    </g>
+    <g id="Rectangle_802" data-name="Rectangle 802" transform="translate(191 -1)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="29" height="29" rx="14.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="28" height="28" rx="14" fill="none"/>
+    </g>
+    <g id="Rectangle_793" data-name="Rectangle 793" transform="translate(73 -8)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="55" height="55" rx="27.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="54" height="54" rx="27" fill="none"/>
+    </g>
+    <rect id="Rectangle_799" data-name="Rectangle 799" width="55" height="56" rx="27.5" transform="translate(131 -19)" fill="#fff"/>
+    <rect id="Rectangle_800" data-name="Rectangle 800" width="9" height="9" rx="4.5" transform="translate(132 38)" fill="#fff"/>
+    <rect id="Rectangle_797" data-name="Rectangle 797" width="31" height="31" transform="translate(82 -43)" fill="#fff"/>
+  </g>
+</svg>
